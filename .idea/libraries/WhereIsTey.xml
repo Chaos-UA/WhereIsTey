@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WhereIsTey">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/WhereIsTey.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+JavaFX-Version: 2.2
+Class-Path: 
+Created-By: JavaFX Packager
+Main-Class: WhereIsTey.Main
+
